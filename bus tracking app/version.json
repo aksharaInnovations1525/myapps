@@ -1,5 +1,5 @@
 {
   "versionCode": 2,
-  "versionName": "1.0.1",
-  "mandatory": true
+  "mandatory": true,
+  "message": "Critical update required to continue"
 }
