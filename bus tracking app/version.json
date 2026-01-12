@@ -1,5 +1,6 @@
 {
   "versionCode": 2,
-  "mandatory": true,
+  "mandatory": false,
   "message": "Critical update required to continue"
 }
+
