@@ -1,8 +1,9 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "mandatory": false,
-  "message": "Driver dashboard updated. It shows duration of active timespan."
+  "message": "Driver dashboard updated.\nRipple effect added for ON-OFF button."
 }
+
 
 
 
